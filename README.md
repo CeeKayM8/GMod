@@ -1,7 +1,9 @@
 # GMod
 
-This is a auto chat script made my me with the help of Arizard! Thanks.
+All client side scripts for garrys mod servers i have made.
 
-You can use this how you wish
+To use, place in lua/autorun/client.
 
-Place script in lua/autorun/client
+You are free to use how you like.
+
+Thanks to Arizard for helping me with autotext.lua
